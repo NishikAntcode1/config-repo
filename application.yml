@@ -1,4 +1,4 @@
-global: I
+global:
   message: Welcome to global Microservices Environment!!
 logging:
   level:
